@@ -4,11 +4,12 @@
 
 ## Table of Contents
 - [Who We Are](#who-we-are)
+- [TL;DR: GitHub Culture Highlights](#tldr-github-culture-highlights)
 - [Meet the Team](#meet-the-team)
 - [Getting in Touch](#getting-in-touch)
-- [Week 1: Checklist](#week-1-checklist)
-- [Week 2: Building on Your Foundation](#week-2-building-on-your-foundation)
-- [Helpful Links for Further Reading](#helpful-links-for-further-reading)
+- [🗓️ Week 1: Checklist](#️-week-1-checklist)
+- [🗓️ Week 2: Building on Your Foundation](#️-week-2-building-on-your-foundation)
+- [📚 Helpful Links for Further Reading](#-helpful-links-for-further-reading)
 
 ---
 
@@ -44,7 +45,10 @@ Learn more about our team’s mission and operating procedures by reviewing the 
 
 ---
 
-### **TL;DR: GitHub Culture Highlights**
+## TL;DR: GitHub Culture Highlights
+
+<details>
+<summary>Expand/Collapse Section</summary>
 
 **Values:**  
 - Customer-obsessed, Ship to learn, Growth mindset, Own the outcome, Better together, Diverse and inclusive.
@@ -56,6 +60,8 @@ Learn more about our team’s mission and operating procedures by reviewing the 
 - Create clarity, Generate energy, Deliver success.
 
 For a deeper dive into GitHub’s mission and values, check out the [**Mission and Core Values**](https://thehub.github.com/github/#githubs-mission-and-core-values).
+
+</details>
 
 ---
 
