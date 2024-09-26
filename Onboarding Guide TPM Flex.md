@@ -54,10 +54,19 @@ For a complete view of our team's structure and how we fit into the larger organ
 ---
 
 ### 📚 Tools of the Trade: How We Communicate at GitHub
-**TL;DR:**  
-In this 5-minute read, [@benbalter](https://github.com/benbalter) shares his insights on the communication tools and strategies at GitHub. ...
 
-[Read the full article](https://ben.balter.com/2020/08/14/tools-of-the-trade/).
+**TL;DR:**  
+In this 5-minute read, [@benbalter](https://github.com/benbalter) shares his insights on the communication tools and strategies at GitHub. He explores why the tools we choose are crucial, as they shape workflows and, ultimately, project outcomes. Key takeaways include:
+
+- **Conway’s Law:** Your communication structure will reflect your system design.
+- **Tool Impact:** Tools are more than just convenience; they define workflows and influence the software you can create.
+- **First Principles for Communication:**
+  - Default to open communication.
+  - Prefer asynchronous communication unless higher fidelity is needed.
+  - Capture and document processes and decisions for transparency.
+  - Use the best tool for the job but prioritize GitHub for visibility and discoverability.
+
+**Read the full article** to explore GitHub’s approach to issues, projects, discussions, and more: [**Tools of the Trade: How I Communicate at GitHub (and Why)**](https://ben.balter.com/2020/08/14/tools-of-the-trade/).
 
 
 ---
