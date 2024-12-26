@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @Atheneowski
-- 👀 I’m interested in a lot of different things! The main ones would have to be my Malinois, cooking, thriving in the PNW, crocheting, and Pokémon [151].
-- 🌱 I’m currently learning how to make sourdough 🍞
-- 💞️ I’m looking to collaborate on whatever fills your cup.
-- 📫 You can best reach me via slack
-- 💎 Fun fact: I took 8 years of French.
+# Hello! I'm @Atheneowski 👋
 
-<!---
-Atheneowski/Atheneowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a tech enthusiast with diverse interests! When I'm not trying to learn coding from my software engineers, you'll find me:
+- Training my Malinois 🐕
+- Perfecting my sourdough game 🍞
+- Exploring the Pacific Northwest 🌲
+- Crocheting cozy creations 🧶
+- Catching the original 151 Pokémon S&V 🎮
+
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/athenedavidowski/)
+- Message me on Slack
+
+## Fun Facts
+- Spent 8 years studying French 🇫🇷
+- Built a thriving sourdough starter from scratch 🍞
+- Seattleite Transplant since 2017, Philly Philly Girl at heart! 🫶
+
+## Open to Collaboration
+I'm always interested in collaborating on meaningful projects that make a positive impact. Let's build something awesome together!
