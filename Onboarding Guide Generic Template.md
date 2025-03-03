@@ -65,7 +65,7 @@ For a complete view of our team's structure, please check out our [**Org Chart**
 
 - **💬 Slack**: Connect with us in **#[your-team-channel]**, our main internal channel, or reach out in **#[general-help-channel]** for any queries or assistance.
 - **📧 Email**: Use **[team-email@yourcompany.com]** for email communication and calendar invites. (But we prefer Slack for most things!)
-- **📺 Rewatch**: Check out our team in action on the [**Team collection on Rewatch**](#).
+- **📺 Loom**: Check out our team in action on the [**Team collection on Loom**](#).
 - **🌴 Out of Office**: Planning some time away? Check out our [**Out of Office Guide**](#) for everything you need to know about staying on top of things while you’re off enjoying life.
 
 </details>
