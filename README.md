@@ -53,7 +53,7 @@ A centralized hub for tracking OKRs, automating updates, and streamlining engine
 ## 📫 Connect With Me
 - **LinkedIn:** [Athene Davidowski](https://linkedin.com/in/athenedavidowski)  
 - **GitHub:** [@atheneowski](https://github.com/atheneowski)
-- **_What is email?_** [Slack Me](U06NMT2CZ9V)
+- **_What is email?_** Slack Me
 
 ---
 
