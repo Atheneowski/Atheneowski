@@ -37,17 +37,18 @@ We propose to [Describe the high-level solution]. This will [Explain the benefit
 - [Specific, measurable criteria for project completion 1]
 - [Specific, measurable criteria for project completion 2]
 - [Specific, measurable criteria for project completion 3]
-- [Link to Definition of Ready (DoR) and Definition of Done (DoD) guidelines](https://github.com/Atheneowski/Atheneowski/blob/main/DoR%26DoD.md) 
+- [Link to Definition of Ready (DoR) and Definition of Done (DoD) guidelines]([https://github.com/Atheneowski/Atheneowski/blob/main/DoR%26DoD.md](https://github.com/Atheneowski/Atheneowski/blob/main/TPM%20Playbook%20for%20DoR%20DoD.md)) 
 
 ## 💻 Corresponding Work
 
 <!-- List the tasks to be completed as part of this project. -->
-```[tasklist]
-### Tasks
+### 📌 Tasks
 - [ ] **Task 1:** Describe the first task to be completed.
 - [ ] **Task 2:** Describe the second task to be completed.
 - [ ] **Task 3:** Describe the third task to be completed.
-```
+
+      
+_Note: Tasklist will be sunset on April 30th, 2025. This has been updated to reflect the coming changes. [Learn more here](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/adding-sub-issues)_
 
 ## 🧗‍♂️ Milestones
 Date 
@@ -55,3 +56,6 @@ Date
 ## 📅 Key Dates
 Pencils down date:
 Drop dead date: 
+
+✨ _Additional Resources_
+[Planning and tracking with Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
