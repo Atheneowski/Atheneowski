@@ -21,6 +21,20 @@ When I’m not optimizing workflows, you’ll find me:
 
 ---
 
+## 🚀 Free Resources & Templates
+I enjoy sharing tools that help teams streamline their work. Here are some **free resources** I've built:
+
+🔗 [Technical Program Manager Playbook: Definition of Ready (DoR) & Definition of Done (DoD)](https://github.com/Atheneowski/Atheneowski/blob/main/DoR%26DoD.md)
+A structured guide to ensure projects start with clear goals and finish with well-defined success criteria.
+
+🔗 [Onboarding Guide Template](https://github.com/Atheneowski/Atheneowski/blob/main/Onboarding%20Guide%20Generic%20Template.md)
+A customizable onboarding guide to help new hires integrate smoothly into any team.
+
+🔗 [Project Tracking Template](https://github.com/Atheneowski/Atheneowski/blob/main/template%20for%20project%20tracking.md)
+A structured project tracking template to define scope, responsibilities, and milestones.
+More to come! I’m always iterating and open to feedback. If there’s a resource you’d like to see, let’s build it together!
+
+---
 ## 🚀 Focus Areas
 - **Optimizing internal processes** to enhance efficiency and reduce operational bottlenecks.
 - **Driving automation initiatives** to streamline workflows and improve engineering productivity.
