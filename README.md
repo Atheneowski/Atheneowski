@@ -53,7 +53,6 @@ A centralized hub for tracking OKRs, automating updates, and streamlining engine
 ## 📫 Connect With Me
 - **LinkedIn:** [Athene Davidowski](https://linkedin.com/in/athenedavidowski)  
 - **GitHub:** [@atheneowski](https://github.com/atheneowski)  
-- **Website:** [SavoringSpoonfuls.com](https://savoringspoonfuls.com)  
 
 ---
 
