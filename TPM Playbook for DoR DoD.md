@@ -21,6 +21,11 @@ This playbook provides a structured approach to **Definition of Ready (DoR) and 
 - **Time Estimates**: Establish timelines and agree on end dates.
 - **Definition of Done (DoD)**: Define completion criteria upfront.
 
+## 3. Importance of DoR
+- Enhances communication and clarity.
+- Improves efficiency and reduces errors.
+- Promotes collaboration and ownership.
+
 ### 📝 3. Example of DoR
 ```md
 **Feature Request: API Integration**
@@ -109,8 +114,27 @@ This playbook provides a structured approach to **Definition of Ready (DoR) and 
 ---
 
 ## 📂 10. Additional Resources
-- [GitHub Actions for Automating DoR/DoD](#)
-- [Best Practices for Engineering Workflows](#)
-- [Tracking OKRs in GitHub](#)
+
+### 🔹 Why These Resources Matter
+These resources provide insights into **security, automation, best practices, and AI-driven efficiency**—all critical for modern engineering teams tracking OKRs and optimizing workflows.
+
+- [How to secure your GitHub Actions workflows with CodeQL](https://github.blog/security/application-security/how-to-secure-your-github-actions-workflows-with-codeql/)  
+  **Why?** Security is a key OKR for engineering teams, and this guide helps enforce security best practices in **GitHub Actions automation** using CodeQL.
+
+- [Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/enterprise-software/devops/best-practices-for-organizations-and-teams-using-github-enterprise-cloud/)  
+  **Why?** Scaling workflows and team collaboration efficiently is a common engineering OKR. This guide provides **best practices for using GitHub Enterprise Cloud** to align with team and organizational goals.
+
+- [Planning next to your code – GitHub Projects is now generally available](https://github.blog/news-insights/product-news/planning-next-to-your-code-github-projects-is-now-generally-available/)  
+  **Why?** OKRs often involve project tracking, and **GitHub Projects** integrates planning directly into the development workflow, making it easier to measure progress.
+
+- [How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)  
+  **Why?** Code quality is a measurable OKR in engineering teams. This article shares best practices for **improving code review efficiency** and maintaining high standards.
+
+- [How to use GitHub Copilot: What it can do and real-world examples](https://github.blog/ai-and-ml/github-copilot/what-can-github-copilot-do-examples/)  
+  **Why?** AI-assisted development is becoming a key factor in **developer productivity OKRs**. This resource provides real-world examples of how GitHub Copilot can streamline engineering workflows.
+
+- [How to refactor code with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-refactor-code-with-github-copilot/)  
+  **Why?** Efficient code refactoring contributes to **engineering OKRs focused on technical debt reduction** and **maintainability**. This guide explains how GitHub Copilot can assist in structured code improvements.
+
 
 🚀 _Let’s make engineering workflows efficient, measurable, and seamless!_
