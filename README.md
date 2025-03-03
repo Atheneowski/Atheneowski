@@ -24,18 +24,22 @@ When I’m not optimizing workflows, you’ll find me:
 ## 🚀 Free Resources & Templates
 I enjoy sharing tools that help teams streamline their work. Here are some **free resources** I've built:
 
-🔗 [Technical Program Manager Playbook: Definition of Ready (DoR) & Definition of Done (DoD)](https://github.com/Atheneowski/Atheneowski/blob/main/DoR%26DoD.md)
+🔗 [Technical Program Manager Playbook: Definition of Ready (DoR) & Definition of Done (DoD)](https://github.com/Atheneowski/Atheneowski/blob/main/TPM%20Playbook%20for%20DoR%20DoD.md)
 A structured guide to ensure projects start with clear goals and finish with well-defined success criteria.
 
 🔗 [Onboarding Guide Template](https://github.com/Atheneowski/Atheneowski/blob/main/Onboarding%20Guide%20Generic%20Template.md)
 A customizable onboarding guide to help new hires integrate smoothly into any team.
 
-🔗 [Project Tracking Template](https://github.com/Atheneowski/Atheneowski/blob/main/template%20for%20project%20tracking.md)
+🔗 [Project Tracking Template](https://github.com/Atheneowski/Atheneowski/blob/main/Template%20for%20Project%20Tracking.md)
 A structured project tracking template to define scope, responsibilities, and milestones.
 More to come! I’m always iterating and open to feedback. If there’s a resource you’d like to see, let’s build it together!
 
 🔗 [Retrospective Frameworks for Teams](https://github.com/Atheneowski/Atheneowski/blob/main/Retrospective%20Frameworks%20for%20Teams.md)
 A collection of structured retrospective frameworks to guide teams through meaningful discussions and drive impactful change.
+
+🔗 [Engineering OKR Tracking Framework](https://github.com/Atheneowski/Atheneowski/blob/main/Engineering%20OKR%20Tracking%20Framework/README.md)  
+A centralized hub for tracking OKRs, automating updates, and streamlining engineering workflows within GitHub.
+
 
 ---
 ## 🚀 Focus Areas
