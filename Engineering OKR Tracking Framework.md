@@ -29,7 +29,7 @@ A standard OKR consists of:
 ### ✅ GitHub-Based Tracking Methods
 - **GitHub Issues:** Track individual key results with labels and milestones.
 - **Project Boards:** Organize OKRs by status (To Do, In Progress, Achieved).
-- **GitHub Discussions:** Facilitate async team check-ins and feedback loops.
+- **GitHub Discussions:** Facilitate async team check-ins and feedback loops. Also check out this [general weekly reporting template](https://github.com/Atheneowski/Atheneowski/blob/main/Engineering%20OKR%20Tracking%20Framework/General%20GitHub%20Discussions%20Template.md).
 
 ### 🏆 Progress Review Cadence
 - **Weekly Check-ins:** Short updates on progress blockers and wins.
