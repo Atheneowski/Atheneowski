@@ -34,6 +34,9 @@ A customizable onboarding guide to help new hires integrate smoothly into any te
 A structured project tracking template to define scope, responsibilities, and milestones.
 More to come! I’m always iterating and open to feedback. If there’s a resource you’d like to see, let’s build it together!
 
+🔗 [Retrospective Frameworks for Teams](https://github.com/Atheneowski/Atheneowski/blob/main/Retrospective%20Frameworks%20for%20Teams.md)
+A collection of structured retrospective frameworks to guide teams through meaningful discussions and drive impactful change.
+
 ---
 ## 🚀 Focus Areas
 - **Optimizing internal processes** to enhance efficiency and reduce operational bottlenecks.
