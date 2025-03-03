@@ -8,7 +8,7 @@ When I’m not optimizing workflows, you’ll find me:
 - Perfecting my sourdough game 🍞 (my starter has traveled with air from the West Coast, East Coast, and the Mediterranean)  
 - Exploring the Pacific Northwest 🌲  
 - Crocheting cozy creations 🧶  
-- Collecting first-edition Pokémon 151 cards 🎮  
+- Collecting first-edition Pokémon 151 cards Scarlet & Violet 🎮  
 
 ---
 
