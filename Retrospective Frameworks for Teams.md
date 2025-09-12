@@ -48,7 +48,7 @@ More details on **accessible retrospectives**: [GitHub Engineering Blog](https:/
 ---
 
 ## ☕ Alternative Retrospective Methods
-- **Lean Coffee**: A structured but agenda-less meeting format to discuss retrospective topics organically.
+- **[Lean Coffee](https://www.leancoffeetable.com/TaskBoard/View/9327a321-115f-4868-9024-e3f839bbc93b?guest=true)**: A structured but agenda-less meeting format to discuss retrospective topics organically.
 - **Asynchronous Feedback**: Gather insights in Slack or other async tools for teams in different time zones.
 
 ---
