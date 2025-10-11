@@ -1,7 +1,7 @@
 # Hello! I'm @Atheneowski 👋
 
 ## 🛠 About Me
-I'm a **Senior Technical Program Manager at GitHub**, with **8+ years of experience** in **engineering operations, automation, and workflow optimization**. I lead **high-impact technical initiatives** that **enhance operational efficiency, scale engineering programs, and drive strategic execution** across the organization. My expertise spans **program management, automation, and cross-functional collaboration**, with a strong focus on **data-driven decision-making** and **developer experience improvements**.
+I'm a **Senior Technical Program Manager at GitHub**, with **10+ years of experience** in **engineering operations, automation, and workflow optimization**. I lead **high-impact technical initiatives** that **enhance operational efficiency, scale engineering programs, and drive strategic execution** across the organization. My expertise spans **program management, automation, and cross-functional collaboration**, with a strong focus on **data-driven decision-making** and **developer experience improvements**.
 
 When I’m not optimizing workflows, you’ll find me:
 - Training my Malinois 🐕  
